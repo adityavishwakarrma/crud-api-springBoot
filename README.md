@@ -18,15 +18,21 @@ First it will show null , by using Post method one can insert the topic over any
 
 Enter the info into the raw body frame , with the below format:
 
-{
+
+    {
         "id": "",
         "name": " ",
         "description": " "
     }
-For, example: {
+    
+  For example: 
+   
+     
+     {
         "id": "java",
         "name": " java uptd framework ",
         "description": " java uptd framework description"
-    }
+      }
     
-    above insert will be same for all the Post and Put requests
+   Above insert will be same for all the Post and Put requests
+    
